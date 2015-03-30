@@ -17,6 +17,13 @@ UEditor-for-Zoomla!逐浪CMS基于.net4.0平台开发，集成了逐浪CMS的内
  2. 进入逐浪CMS后台
  ![enter image description here](http://club.zoomla.cn/UploadFiles/Image/20150330/6356333777827170223433038.jpg)
 
+
+系统支持大文件上传，设置支持大文件上传的第一步是：
+进入文件夹/Plugins/Ueditor/net/config.json里修改文件附件的大小
+![enter image description here](http://www.zoomla.cn/UploadFiles/Image/20150330/6356332470656433357432169.jpg)
+相关帮助可以查看此处：http://www.zoomla.cn/help/tech/2386.shtml
+
+
 ![enter image description here](http://www.zoomla.cn/UploadFiles/Image/20150330/6356333678162337282052204.jpg)
 
 ![enter image description here](http://www.zoomla.cn/UploadFiles/Image/20150330/6356333680445016944868716.jpg)
