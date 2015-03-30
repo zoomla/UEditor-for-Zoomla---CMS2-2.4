@@ -21,3 +21,9 @@ UEditor-for-Zoomla!逐浪CMS基于.net4.0平台开发，集成了逐浪CMS的内
 
 ![enter image description here](http://www.zoomla.cn/UploadFiles/Image/20150330/6356333680445016944868716.jpg)
 
+Zoomla!逐浪CMS致力于提高端的基于.net4.0+MSSQL平台的网站内核管理系统,系统同时提供OA、教育组卷、排课、三维全景、移动微站、微信、站群、社会化办公等应用，官方网址会不断更新最新版本，完美兼容并默认采用UEditor。
+
+附：
+UEditor项目和源码下载http://ueditor.baidu.com/website/
+Zoomla!逐浪CMS程序下载http://www.zoomla.cn/pub
+
